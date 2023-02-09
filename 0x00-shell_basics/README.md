@@ -4,3 +4,4 @@ a script that changes the working directory to the user’s home directory
 display current directory contents in a long format
 display current directory contents, including hidden files (starting with .). Use the long format
 Create a script that creates a directory named 'my first directory' in the tmp directory
+Move the file betty from /tmp/ to /tmp/my_first_directory
